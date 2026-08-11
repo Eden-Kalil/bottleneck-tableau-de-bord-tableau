@@ -117,8 +117,8 @@ Trois pages, correspondant à trois questions métier distinctes : *où en est l
 
 **Stack :** SQLite · Tableau Prep · Tableau Desktop
 
-**Projets liés :** [rapprochement ERP/web](../bottleneck-analyse-stock-ventes) ·
-[fiabilisation et POC qualité](../bottleneck-fiabilisation-donnees)
+**Projets liés :** [rapprochement ERP/web](https://github.com/Eden-Kalil/bottleneck-analyse-stock-ventes) ·
+[fiabilisation et POC qualité](https://github.com/Eden-Kalil/bottleneck-fiabilisation-donnees)
 
 ---
 
